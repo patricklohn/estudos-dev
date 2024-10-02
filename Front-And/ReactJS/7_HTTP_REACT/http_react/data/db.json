@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "name": "Capa de chuva",
+      "price": "129,90",
+      "id": "5"
+    },
+    {
+      "name": "Luva",
+      "price": "49,90",
+      "id": "6"
+    },
+    {
+      "name": "Capacete",
+      "price": "249,90",
+      "id": "7"
+    },
+    {
+      "id": "06a5",
+      "name": "teste",
+      "price": "1"
+    },
+    {
+      "id": "e857",
+      "name": "testeCarre",
+      "price": "20"
+    },
+    {
+      "id": "b919",
+      "name": "carata ",
+      "price": "50"
+    },
+    {
+      "0": {
+        "name": "Capa de chuva",
+        "price": "129,90",
+        "id": "5"
+      },
+      "1": {
+        "name": "Luva",
+        "price": "49,90",
+        "id": "6"
+      },
+      "2": {
+        "name": "Capacete",
+        "price": "249,90",
+        "id": "7"
+      },
+      "3": {
+        "id": "06a5",
+        "name": "teste",
+        "price": "1"
+      },
+      "4": {
+        "id": "e857",
+        "name": "testeCarre",
+        "price": "20"
+      },
+      "5": {
+        "id": "b919",
+        "name": "carata ",
+        "price": "50"
+      },
+      "id": "45a7"
+    },
+    {
+      "0": {
+        "name": "Capa de chuva",
+        "price": "129,90",
+        "id": "5"
+      },
+      "1": {
+        "name": "Luva",
+        "price": "49,90",
+        "id": "6"
+      },
+      "2": {
+        "name": "Capacete",
+        "price": "249,90",
+        "id": "7"
+      },
+      "3": {
+        "id": "06a5",
+        "name": "teste",
+        "price": "1"
+      },
+      "4": {
+        "id": "e857",
+        "name": "testeCarre",
+        "price": "20"
+      },
+      "5": {
+        "id": "b919",
+        "name": "carata ",
+        "price": "50"
+      },
+      "6": {
+        "0": {
+          "name": "Capa de chuva",
+          "price": "129,90",
+          "id": "5"
+        },
+        "1": {
+          "name": "Luva",
+          "price": "49,90",
+          "id": "6"
+        },
+        "2": {
+          "name": "Capacete",
+          "price": "249,90",
+          "id": "7"
+        },
+        "3": {
+          "id": "06a5",
+          "name": "teste",
+          "price": "1"
+        },
+        "4": {
+          "id": "e857",
+          "name": "testeCarre",
+          "price": "20"
+        },
+        "5": {
+          "id": "b919",
+          "name": "carata ",
+          "price": "50"
+        },
+        "id": "45a7"
+      },
+      "id": "0d3d"
+    },
+    {
+      "id": "0e1f",
+      "name": "teste",
+      "price": "1"
+    },
+    {
+      "id": "17c8",
+      "name": "1",
+      "price": "1"
+    },
+    {
+      "id": "d0f9",
+      "name": "1",
+      "price": "1"
+    },
+    {
+      "id": "5dfc",
+      "name": "bota",
+      "price": "5"
+    },
+    {
+      "id": "3004",
+      "name": "bota",
+      "price": "5"
+    }
+  ]
+}
